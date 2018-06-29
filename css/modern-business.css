@@ -36,3 +36,22 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.letraRoja{
+	color: #ff7777;
+}
+.letraAzul{
+	color:#aaf2f4;
+}
+.letraAmarilla{
+color:#f7ff7a;
+}
+.letraVerde{
+color:#a6fd7b;
+}
+
+.margenCorrecion{
+	margin:4em;
+
+
+}
